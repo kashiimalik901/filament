@@ -35,3 +35,4 @@ jobs:
             /vendor
             /.git*
             /node_modules
+          dangerous-clean-slate: true
